@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarshtrivedi7](https://github.com/utkarshtrivedi7)
 
+- LinkedIn Profile Link (https://www.linkedin.com/in/ubtrivedi/)
+
 - 📫 How to reach me **utkarshtrivedi7@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
