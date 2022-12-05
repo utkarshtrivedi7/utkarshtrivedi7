@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshtrivedi7" alt="utkarshtrivedi7" /></a> </p>
 
-- 🔭 I’m currently working at **Verafin(NASDAQ) as Data Integration Developer**
+- 🔭 I’m currently working at **Verafin (Nasdaq) as Data Integration Developer**
 
 - 🌱 I’m currently learning **AWS Solution Architect**
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshtrivedi7&show_icons=true&locale=en" alt="utkarshtrivedi7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshtrivedi7&" alt="utkarshtrivedi7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/utkarshtrivedi7&" alt="https://github.com/utkarshtrivedi7" /></p>
