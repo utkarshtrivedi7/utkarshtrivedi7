@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Trivedi</h1>
 <h3 align="center">A passionate Backend developer, Data specialist and Cloud Enthusiast from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshtrivedi7&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtrivedi7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshtrivedi7" alt="utkarshtrivedi7" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarshtrivedi7&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtrivedi7" /> </p>
 
 - 🔭 I’m currently working at **Verafin (Nasdaq) as Data Integration Developer**
 
