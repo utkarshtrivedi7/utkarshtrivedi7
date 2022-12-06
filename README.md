@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarshtrivedi7&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtrivedi7" /> </p>
 
-- 🔭 I’m currently working at **Verafin (Nasdaq) as Data Integration Developer**
+- 🔭 I’m currently working at **Verafin (Nasdaq) as Data Integration Developer in Canada**
 
 - 🌱 I’m currently learning **AWS Solution Architect**
 
