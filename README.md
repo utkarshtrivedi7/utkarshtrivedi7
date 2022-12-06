@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Verafin (Nasdaq) as Data Integration Developer in Canada**
 
-- 🌱 I’m currently learning **AWS Solution Architect**
+- 🌱 I’m currently learning **AWS Solution Architect** and solving leetcode problems daily
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarshtrivedi7](https://github.com/utkarshtrivedi7)
 
