@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarshtrivedi7&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtrivedi7" /> </p>
 
-- 🔭 I’m currently working at **Verafin (Nasdaq) as Data Integration Developer in Canada**
+- 🔭 I’m currently working at **Verafin (Nasdaq) as a Senior Software Developer in Canada**
 
-- 🌱 I’m currently learning **AWS Solution Architect** and solving leetcode problems daily
+- 🌱 I’m currently learning **AWS Developer associate** and solving leetcode problems daily. I have completed AWS CLF and SAA certifications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarshtrivedi7](https://github.com/utkarshtrivedi7)
 
